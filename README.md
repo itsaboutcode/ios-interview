@@ -29,6 +29,7 @@ Functions which takes one or more functions as arguments, returns a function as 
 - [hackingwithswift](https://www.hackingwithswift.com/)
 - [raywenderlich](https://www.raywenderlich.com/)
 - [appcoda](https://www.appcoda.com/)
+- [useyourloaf](https://useyourloaf.com/)
 
 ### Youtube Channels
 
